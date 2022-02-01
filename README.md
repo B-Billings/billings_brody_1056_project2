@@ -1,6 +1,6 @@
 # 1056 Project 2 by Brody Billings
 
-This is the submission file for Brody Billings project 1 in 1056
+This is the submission file for Brody Billings project 2 (Web Typography) in Web Development 1
 <br>
 
 ## Installation
@@ -20,6 +20,12 @@ This is the submission file for Brody Billings project 1 in 1056
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
+<br>
+
+## Credits
+***
+HTML markup/outline [W3C](https://validator.w3.org/)
 
 <br>
 
