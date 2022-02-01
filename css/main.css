@@ -19,12 +19,11 @@
 
 body{
     font-family: 'Rubik',Arial, Helvetica, sans-serif;
-    font-weight: 900;
 }
 
 h2 {
-    font-weight: 900;
     font-family: "Rubik",Arial, Helvetica, sans-serif;
+    font-weight: 900;
     font-size: 34px;
     color: rgb(110, 103, 103);
     letter-spacing: 1px;
@@ -40,8 +39,10 @@ h3{
     margin-top: 10px;
     margin-bottom: 20px;
     margin-left: 10px;
+    letter-spacing: 1px;
 }
 p{
+    font-family: "Rubik",Arial, Helvetica, sans-serif;
     color: rgb(36, 36, 36);
     font-size: 17px;
     line-height: 28px;
