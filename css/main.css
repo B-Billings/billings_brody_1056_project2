@@ -58,14 +58,13 @@ p{
 
 .floatImgleft{
     float: left;
-    margin-left: 0px;
+    margin: 0px;
     padding: 0px;
     margin-right: 10px;
     
 }
 .floatImgright{
     float: right;
-    justify-content: space-around;
     margin-right: 0px;
     padding: 0px;
     margin-top: 0px;
@@ -73,6 +72,14 @@ p{
 
     
 }
+
+.floatImgcenter{
+    display: inline-block;
+    margin-left: 8em;
+    
+    
+}
+/* This was experimental and worked but i could not add the caption easily
 #imgblock{
     display: flex;
     flex-wrap: wrap;
@@ -84,9 +91,11 @@ p{
     margin-bottom: 10px;
 }
 
+*/
+
 figure, figcaption {
-    display: inline-flex;
-    margin: 0;
+    display: block;
+    margin: 10px;
     padding: 0;
 }
 
@@ -96,4 +105,7 @@ figcaption{
     font-style: italic;
     letter-spacing: 1px;
     color: black;
+    text-align: center;
+    
+    
 }
